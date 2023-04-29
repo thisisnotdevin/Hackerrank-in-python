@@ -18,3 +18,8 @@ The `[::-1]` notation is used to reverse an iterable object such as a list, tupl
 original_list = [1, 2, 3, 4, 5]
 reversed_list = original_list[::-1]
 ```
+How to replace a character with another character in a string:
+This removes the spaces from a string
+```
+string = string.replace(" ", "")
+```
